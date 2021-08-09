@@ -10,6 +10,24 @@ Kartvizitler sayfasına gittiğimizde apiden veri gelene kadar duran bir loading
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
 
+
+## Installing the Application
+
+- First, install nodejs and npm globally if you don't have already: [nodeJS](https://nodejs.org/) 
+
+- Then, clone git repo and cd to project folder:
+
+```
+git clone https://github.com/MustafaCelal/Kartvizit-app.git
+cd Kartvizit-app/
+ ```
+
+- Now, you need to install required node packages:
+
+```
+npm install 
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
